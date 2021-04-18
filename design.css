@@ -8,8 +8,9 @@ p{
   font-size: 12pt;
   color: black;
 }
-<h1 style="color: black; text-align:center"</h1>
-  
+h1{
+  color: blue;
+  text-align:center;
 }
 h2{
   color: blue;
