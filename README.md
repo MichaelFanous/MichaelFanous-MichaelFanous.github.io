@@ -20,7 +20,7 @@
 
     <div id="media">
     <h2>As a refresher here is my video I applied to Snap Engineering Academy with!</h2>
-  <iframe width="420" height="345" src="https://www.youtube.com/embed/?v=elxUhnjPkq0">
+  <iframe width="420" height="345" src="https://www.youtube.com/v/elxUhnjPkq0">
 </iframe>
   <br>
   <a href="https://github.com/MichaelFanous">Click here to access my github!</a>
