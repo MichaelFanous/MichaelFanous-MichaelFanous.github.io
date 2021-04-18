@@ -22,7 +22,9 @@
     <h2>Here is an image of my favorite basketball player of all time, Kobe Bryant!</h2>
     <img src ="https://image.cnbcfm.com/api/v1/image/101524695-457220551.jpg?v=1395781183&w=1400&h=950" width ="400" height="240"/>
     
-  <video src = "https://drive.google.com/file/d/1CmaJplFruItDA991boPgzLyBTFZ5Cc2a/view?usp=sharing" width ="320" height="240" controls>
+  <video controls>
+  
+  <source src= "https://drive.google.com/file/d/1CmaJplFruItDA991boPgzLyBTFZ5Cc2a/view?usp=sharing" type=video"width ="320" height="240" controls>
   </video>
   <br>
   <a href="https://github.com/MichaelFanous">Click here to access my github!</a>
