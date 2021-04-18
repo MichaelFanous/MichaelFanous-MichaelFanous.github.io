@@ -2,6 +2,7 @@ body {
   background: #F8F0AF;
   color: black;
 }
+.heading { color: blue; }
 
 p{
   font-size: 12pt;
