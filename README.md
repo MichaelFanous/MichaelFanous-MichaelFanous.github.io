@@ -1,6 +1,7 @@
 
 <html>
-  <head> <title>Michael Fanous's Site</title></head>
+  <head> <link href="design.css">
+    <title>Michael Fanous's Site</title></head>
 <body>
   <h1>Michael Fanous's Site</h1>
   <div id="introduction">
@@ -15,7 +16,7 @@
       <li>Symbolic Logic</li>
     </ul>
     <h3>What Makes me a good fit for the Snap Engineering Academy?</h3>
-    <p> I am an as driven as anyone. Some of my strengths include experiences within industry, working on projects with groups of others, a big thing I have noticed is to be successful in the space is that communication is key. Another major strength of mine is just that I constantly think, I have ideas floating around my head 24/7 on how can I improve something, or maybe even a startup idea.</p>
+    <p class="paragraph2"> I am an as driven as anyone. Some of my strengths include experiences within industry, working on projects with groups of others, a big thing I have noticed is to be successful in the space is that communication is key. Another major strength of mine is just that I constantly think, I have ideas floating around my head 24/7 on how can I improve something, or maybe even a startup idea.</p>
 
     <div id="media">
     <h2>Here is an image of my favorite basketball player of all time, Kobe Bryant!</h2>
@@ -30,5 +31,4 @@
   <a href="https://www.linkedin.com/in/michael-f-63833475/">Click here to check out my Linkedin!</a>
  
   </div>
-</body>
 
