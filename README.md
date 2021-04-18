@@ -19,10 +19,8 @@
     <p class="paragraph2"> I am as driven as anyone. Some of my strengths include experiences within industry, working on projects with groups of others, a big thing I have noticed is to be successful in the space is that communication is key. Another major strength of mine is just that I constantly think, I have ideas floating around my head 24/7 on how can I improve something, or maybe even a startup idea.</p>
 
     <div id="media">
-    <h2>Here is an image of my favorite basketball player of all time, Kobe Bryant!</h2>
-    <img src ="https://image.cnbcfm.com/api/v1/image/101524695-457220551.jpg?v=1395781183&w=1400&h=950" width ="400" height="240"/>
-  
-  <iframe width="420" height="345" src="https://youtu.be/elxUhnjPkq0">
+    <h2>As a refresher here is my video I applied to Snap Engineering Academy with!</h2>
+  <iframe width="420" height="345" src="https://www.youtube.com/embed/?v=elxUhnjPkq0">
 </iframe>
   <br>
   <a href="https://github.com/MichaelFanous">Click here to access my github!</a>
