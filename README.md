@@ -16,7 +16,7 @@
       <li>Symbolic Logic</li>
     </ul>
     <h3>What Makes me a good fit for the Snap Engineering Academy?</h3>
-    <p class="paragraph2"> I am an as driven as anyone. Some of my strengths include experiences within industry, working on projects with groups of others, a big thing I have noticed is to be successful in the space is that communication is key. Another major strength of mine is just that I constantly think, I have ideas floating around my head 24/7 on how can I improve something, or maybe even a startup idea.</p>
+    <p class="paragraph2"> I am as driven as anyone. Some of my strengths include experiences within industry, working on projects with groups of others, a big thing I have noticed is to be successful in the space is that communication is key. Another major strength of mine is just that I constantly think, I have ideas floating around my head 24/7 on how can I improve something, or maybe even a startup idea.</p>
 
     <div id="media">
     <h2>Here is an image of my favorite basketball player of all time, Kobe Bryant!</h2>
