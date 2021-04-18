@@ -1,6 +1,6 @@
 
 <html>
-  <head> <link href="design.css">
+  <head> <link rel="stylesheet" href="design.css">
     <title>Michael Fanous's Site</title></head>
 <body>
   <h1>Michael Fanous's Site</h1>
