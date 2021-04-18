@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head> <title>Michael Fanous's Site</title></head>
 <body>
@@ -24,7 +24,7 @@
   <video src = "https://www.youtube.com/watch?v=P674MK3AwSk" width ="320" height="240" controls>
   Video not supported
   </video>
- 
+  <br>
   <a href="https://github.com/MichaelFanous">Click here to access my github!</a>
   <br>
   <a href="https://www.linkedin.com/in/michael-f-63833475/">Click here to check out my Linkedin!</a>
